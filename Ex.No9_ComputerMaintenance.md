@@ -14,6 +14,7 @@ Write a Prolog program to build a computer maintenance expert system.
 8. Find the fault of computer by passing query to system.
      
 ### Program:
+```
 fault(printer_head) :-
  problem(not_printing),
  problem(missing_dots),
@@ -37,6 +38,7 @@ problem(missing_dots).
 problem(spread_ink).
 problem(two_short_beeps).
 problem(blank_display).
+```
 
 ### Output:
 
