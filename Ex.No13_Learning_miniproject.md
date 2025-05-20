@@ -70,6 +70,8 @@
 
 ### Output:
 
+![WhatsApp Image 2025-05-19 at 20 50 43_938296c3](https://github.com/user-attachments/assets/601075f4-2ca6-4804-a96a-1ca002a9b5cc)
+![WhatsApp Image 2025-05-19 at 20 50 43_7772a1d7](https://github.com/user-attachments/assets/e50d238e-ea25-4c28-851d-1d98d8f17192)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
