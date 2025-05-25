@@ -1,5 +1,5 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
-### DATE: 12/05/2025                                                                           
+### DATE: 13/05/2025                                                                           
 ### REGISTER NUMBER : 212222060182
 ### AIM: 
   To develop a machine learning model using the Random Forest Classifier to accurately detect the presence of eyes in image data by processing and classifying features from an ARFF dataset.
