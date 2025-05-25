@@ -1,10 +1,10 @@
 # Ex.No: 10 Logic Programming – Simple queries from facts and rules
-# DATE: 29/04/2025
-# REGISTER NUMBER : 212222060182
-# AIM:
+### DATE: 29/04/2025
+### REGISTER NUMBER : 212222060182
+### AIM:
 To write a prolog program to find the answer of query.
 
-# Algorithm:
+### Algorithm:
 Step 1: Start the program
 Step 2: Convert the sentence into First order Logic
 Step 3: Convert the sentence into Horn clause form
@@ -13,8 +13,8 @@ Step 5: Pass the query to program.
 Step 6: Prolog interpreter shows the output and return answer.
 Step 8: Stop the program.
 
-# Program:
-# Task 1:
+### Program:
+### Task 1:
 Construct the FOL representation for the following sentences
 
 1. John likes all kinds of food.
